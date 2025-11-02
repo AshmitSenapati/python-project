@@ -1,0 +1,20 @@
+[
+  {
+    "res_id": 17,
+    "name": "Lake Q",
+    "type": "Lake",
+    "region": "South",
+    "capacity": 480,
+    "current_level": 375,
+    "status": "Low"
+  },
+  {
+    "res_id": 18,
+    "name": "Dam R",
+    "type": "Dam",
+    "region": "East",
+    "capacity": 1350,
+    "current_level": 1200,
+    "status": "Normal"
+  }
+]

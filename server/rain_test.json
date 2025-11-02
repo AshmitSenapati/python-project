@@ -1,0 +1,16 @@
+[
+  {
+    "record_id": 17,
+    "region": "North",
+    "date": "2025-05-05",
+    "rainfall": 60,
+    "season": "Summer"
+  },
+  {
+    "record_id": 18,
+    "region": "South",
+    "date": "2025-06-10",
+    "rainfall": 100,
+    "season": "Monsoon"
+  }
+]
