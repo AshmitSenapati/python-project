@@ -1,0 +1,128 @@
+[
+  {
+    "record_id": 1,
+    "region": "North",
+    "date": "2025-01-05",
+    "rainfall": 15,
+    "season": "Winter"
+  },
+  {
+    "record_id": 2,
+    "region": "North",
+    "date": "2025-02-15",
+    "rainfall": 18,
+    "season": "Winter"
+  },
+  {
+    "record_id": 3,
+    "region": "North",
+    "date": "2025-03-20",
+    "rainfall": 30,
+    "season": "Spring"
+  },
+  {
+    "record_id": 4,
+    "region": "South",
+    "date": "2025-04-05",
+    "rainfall": 50,
+    "season": "Spring"
+  },
+  {
+    "record_id": 5,
+    "region": "South",
+    "date": "2025-05-15",
+    "rainfall": 75,
+    "season": "Summer"
+  },
+  {
+    "record_id": 6,
+    "region": "East",
+    "date": "2025-06-25",
+    "rainfall": 125,
+    "season": "Monsoon"
+  },
+  {
+    "record_id": 7,
+    "region": "East",
+    "date": "2025-07-10",
+    "rainfall": 150,
+    "season": "Monsoon"
+  },
+  {
+    "record_id": 8,
+    "region": "East",
+    "date": "2025-08-05",
+    "rainfall": 130,
+    "season": "Monsoon"
+  },
+  {
+    "record_id": 9,
+    "region": "West",
+    "date": "2025-09-15",
+    "rainfall": 110,
+    "season": "Monsoon"
+  },
+  {
+    "record_id": 10,
+    "region": "Central",
+    "date": "2025-10-01",
+    "rainfall": 40,
+    "season": "Autumn"
+  },
+  {
+    "record_id": 11,
+    "region": "Central",
+    "date": "2025-10-20",
+    "rainfall": 38,
+    "season": "Autumn"
+  },
+  {
+    "record_id": 12,
+    "region": "North",
+    "date": "2025-11-05",
+    "rainfall": 20,
+    "season": "Winter"
+  },
+  {
+    "record_id": 13,
+    "region": "South",
+    "date": "2025-11-25",
+    "rainfall": 22,
+    "season": "Winter"
+  },
+  {
+    "record_id": 14,
+    "region": "East",
+    "date": "2025-12-10",
+    "rainfall": 25,
+    "season": "Winter"
+  },
+  {
+    "record_id": 15,
+    "region": "West",
+    "date": "2025-12-20",
+    "rainfall": 28,
+    "season": "Winter"
+  },
+  {
+    "record_id": 16,
+    "region": "Central",
+    "date": "2025-04-15",
+    "rainfall": 55,
+    "season": "Spring"
+  },
+  {
+    "record_id": 21,
+    "date": "2025-09-21",
+    "season": "Summer",
+    "region": "West",
+    "rainfall": 101.0
+  },
+  {
+    "record_id": 22,
+    "date": "2025-10-11",
+    "season": "Autumn",
+    "region": "East",
+    "rainfall": 45.0
+  }
+]

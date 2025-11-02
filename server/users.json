@@ -1,0 +1,17 @@
+[
+  {"user_type": "admin", "user_name": "manit_admin", "password": "12345"},
+  {"user_type": "admin", "user_name": "ben_admin", "password": "Secure#42"},
+  {"user_type": "admin", "user_name": "carla_admin", "password": "Admin$2024"},
+  {"user_type": "admin", "user_name": "david_admin", "password": "RootAccess!9"},
+  {"user_type": "client", "user_name": "emma", "password": "pass1234"},
+  {"user_type": "client", "user_name": "frank", "password": "sunrise2023"},
+  {"user_type": "client", "user_name": "grace", "password": "waterflow!"},
+  {"user_type": "client", "user_name": "harry", "password": "rainfall#99"},
+  {"user_type": "client", "user_name": "isabel", "password": "client2025"},
+  {"user_type": "client", "user_name": "jack", "password": "blueLake7"},
+  {"user_type": "client", "user_name": "nikhil", "password": "12345"},
+  {"user_type": "client", "user_name": "pranay", "password": "12345"},
+  {"user_type": "client", "user_name": "anushka", "password": "12345"},
+  {"user_type": "client", "user_name": "ashmit", "password": "12345"},
+  {"user_type": "client", "user_name": "manit", "password": "12345"}
+]

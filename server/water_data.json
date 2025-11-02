@@ -1,0 +1,164 @@
+[
+  {
+    "res_id": 1,
+    "name": "Reservoir A",
+    "type": "Reservoir",
+    "region": "North",
+    "capacity": 1000,
+    "current_level": 800,
+    "status": "Normal"
+  },
+  {
+    "res_id": 2,
+    "name": "Lake B",
+    "type": "Lake",
+    "region": "South",
+    "capacity": 500,
+    "current_level": 370,
+    "status": "Low"
+  },
+  {
+    "res_id": 3,
+    "name": "Dam C",
+    "type": "Dam",
+    "region": "East",
+    "capacity": 1500,
+    "current_level": 1100,
+    "status": "Normal"
+  },
+  {
+    "res_id": 4,
+    "name": "Reservoir D",
+    "type": "Reservoir",
+    "region": "West",
+    "capacity": 800,
+    "current_level": 690,
+    "status": "Normal"
+  },
+  {
+    "res_id": 5,
+    "name": "Lake E",
+    "type": "Lake",
+    "region": "Central",
+    "capacity": 400,
+    "current_level": 300,
+    "status": "Low"
+  },
+  {
+    "res_id": 6,
+    "name": "Dam F",
+    "type": "Dam",
+    "region": "North",
+    "capacity": 1200,
+    "current_level": 1000,
+    "status": "Normal"
+  },
+  {
+    "res_id": 7,
+    "name": "Reservoir G",
+    "type": "Reservoir",
+    "region": "South",
+    "capacity": 1100,
+    "current_level": 950,
+    "status": "Normal"
+  },
+  {
+    "res_id": 8,
+    "name": "Lake H",
+    "type": "Lake",
+    "region": "East",
+    "capacity": 600,
+    "current_level": 400,
+    "status": "Low"
+  },
+  {
+    "res_id": 9,
+    "name": "Dam I",
+    "type": "Dam",
+    "region": "West",
+    "capacity": 1400,
+    "current_level": 1200,
+    "status": "Normal"
+  },
+  {
+    "res_id": 10,
+    "name": "Reservoir J",
+    "type": "Reservoir",
+    "region": "Central",
+    "capacity": 900,
+    "current_level": 850,
+    "status": "Normal"
+  },
+  {
+    "res_id": 11,
+    "name": "Lake K",
+    "type": "Lake",
+    "region": "North",
+    "capacity": 450,
+    "current_level": 375,
+    "status": "Low"
+  },
+  {
+    "res_id": 12,
+    "name": "Dam L",
+    "type": "Dam",
+    "region": "South",
+    "capacity": 1300,
+    "current_level": 1100,
+    "status": "Normal"
+  },
+  {
+    "res_id": 13,
+    "name": "Reservoir M",
+    "type": "Reservoir",
+    "region": "East",
+    "capacity": 1000,
+    "current_level": 850,
+    "status": "Normal"
+  },
+  {
+    "res_id": 14,
+    "name": "Lake N",
+    "type": "Lake",
+    "region": "West",
+    "capacity": 550,
+    "current_level": 400,
+    "status": "Low"
+  },
+  {
+    "res_id": 15,
+    "name": "Dam O",
+    "type": "Dam",
+    "region": "Central",
+    "capacity": 1250,
+    "current_level": 1150,
+    "status": "Normal"
+  },
+  {
+    "res_id": 16,
+    "name": "Reservoir P",
+    "type": "Reservoir",
+    "region": "North",
+    "capacity": 1050,
+    "current_level": 900,
+    "status": "Normal"
+  },
+  {
+    "res_id": 17,
+    "name": "Lake Q",
+    "type": "Lake",
+    "region": "South",
+    "capacity": 480,
+    "current_level": 375,
+    "status": "Low"
+  },
+  {
+    "res_id": 18,
+    "name": "Dam R",
+    "type": "Dam",
+    "region": "East",
+    "capacity": 1350,
+    "current_level": 1200,
+    "status": "Normal"
+  }
+]
