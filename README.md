@@ -105,7 +105,11 @@ This project is licensed under the MIT License.
 
 ## Author
 
-AshmitSenapati
+Ashmit Senapati - 25BCE2451
+Manit Bisht - 25BCE2441
+Anushka Gupta - 
+Pranay Jangra - 
+Nikhil - 
 
 ---
 For more information or support, please open an issue in the repository.
