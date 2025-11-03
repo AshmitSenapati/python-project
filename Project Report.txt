@@ -102,7 +102,6 @@ Key Features:
 The administrator dashboard provides complete control over the system:
 
 Key Features:
-- User account management
 - Data modification capabilities
 - System monitoring
 - Resource allocation
@@ -123,8 +122,6 @@ The system uses JSON files for data storage:
 Key Features:
 - Structured data storage
 - Real-time updates
-- Data validation
-- Backup mechanisms
 
 4. Demo Screenshots
 - Main login interface
