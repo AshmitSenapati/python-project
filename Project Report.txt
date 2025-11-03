@@ -130,9 +130,7 @@ Key Features:
 - Main login interface
 - Administrator dashboard
 - Client portal
-- Data visualization screens
 - Search functionality
-- User management interface
 
 5. Conclusion
 The Rainfall & Water Resource Monitoring System successfully implements a comprehensive solution for managing and monitoring environmental data. The system provides secure, role-based access to data, efficient management capabilities, and user-friendly interfaces. The implementation of JSON-based data storage ensures data persistence and easy maintenance. The system meets all its intended objectives and provides a solid foundation for future enhancements.
