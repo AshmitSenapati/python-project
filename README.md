@@ -107,9 +107,9 @@ This project is licensed under the MIT License.
 
 Ashmit Senapati - 25BCE2451
 Manit Bisht - 25BCE2441
-Anushka Gupta - 
-Pranay Jangra - 
-Nikhil - 
+Pranay.R Jangra - 25BCE2433
+Anushka Gupta - 25BCE2434
+Nikhil Sagar - 25BCE2446
 
 ---
 For more information or support, please open an issue in the repository.

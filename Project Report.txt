@@ -1,0 +1,146 @@
+(BACSE101) Problem Solving using Python
+
+PROJECT REPORT
+
+On
+
+Rainfall & Water Resource Monitoring System
+
+
+
+
+
+
+Prepared by -
+Manit Bisht – 25BCE2441
+Ashmit Senapati – 25BCE2451
+Pranay.R Jangra - 25BCE2433
+Anushka Gupta - 25BCE2434
+Nikhil Sagar - 25BCE2446
+
+Under the supervision of -
+Mrs. Saritha Murali
+
+
+
+
+
+
+
+School of Computer Science and Engineering
+Vellore Institute of Technology, Vellore.
+
+To be presented on- November 4, 2025
+Table of Contents
+1. Introduction 
+2. Problem Statement and Objectives 
+3. Implementation Code
+4. Demo Screenshots
+5. Conclusion
+
+Overview
+This project implements a comprehensive Rainfall & Water Resource Monitoring System using Python. The system provides a secure, user-friendly interface for both administrators and clients to manage and monitor rainfall data and water resources. It features role-based access control, real-time data management, and an intuitive graphical user interface built with Tkinter. The system stores data in JSON format and includes features for data visualization, user management, and detailed resource monitoring.
+
+1. Introduction
+The Rainfall & Water Resource Monitoring System is a desktop application designed to facilitate the management and monitoring of rainfall data and water resources. The system caters to two types of users - administrators and clients, each with specific access rights and functionalities.
+
+1.1 Domain Information -
+The project falls under the domain of Environmental Monitoring Systems and Resource Management. It combines elements of:
+- Database Management
+- User Authentication and Authorization
+- Graphical User Interface Design
+- Data Visualization
+- Environmental Data Processing
+
+1.2 Software Libraries Used -
+The project utilizes the following Python libraries:
+- Tkinter: For creating the graphical user interface
+- JSON: For data storage and management
+- Subprocess: For handling multiple processes
+- Sys: For system-level operations
+
+1.3 Contributions -
+- Implementation of user authentication system
+- Development of administrator and client interfaces
+- Creation of data management system
+- Integration of JSON-based data storage
+- Implementation of search functionality
+- Development of data visualization features
+
+1.4 Challenges Faced -
+- Implementing secure user authentication
+- Managing concurrent data access
+- Creating an intuitive user interface
+- Ensuring data consistency across different operations
+- Handling various data formats and validation
+
+2. Problem Statement and Objectives
+
+Problem Statement:
+To develop a comprehensive system for monitoring and managing rainfall and water resource data with different access levels for administrators and clients.
+
+Objectives:
+1. Create a secure login system with role-based access control
+2. Implement real-time data management for rainfall and water resources
+3. Develop an intuitive user interface for both administrators and clients
+4. Provide data visualization capabilities for better understanding
+5. Enable efficient search and retrieval of historical data
+6. Ensure data consistency and integrity across operations
+
+3. Implementation
+
+3.1 User Authentication System -
+The system implements a secure login mechanism with separate portals for administrators and clients. The authentication is managed through the main.py file:
+
+Key Features:
+- Separate login windows for administrators and clients
+- Password visibility toggle
+- Role-based access control
+- Session management
+
+3.2 Administrator Dashboard
+The administrator dashboard provides complete control over the system:
+
+Key Features:
+- User account management
+- Data modification capabilities
+- System monitoring
+- Resource allocation
+
+
+3.3 Client Portal
+The client portal offers a user-friendly interface for data access:
+
+Key Features:
+- View rainfall statistics
+- Access water resource data
+- Search functionality
+- Data visualization
+
+3.4 Data Management
+The system uses JSON files for data storage:
+
+Key Features:
+- Structured data storage
+- Real-time updates
+- Data validation
+- Backup mechanisms
+
+4. Demo Screenshots
+- Main login interface
+- Administrator dashboard
+- Client portal
+- Data visualization screens
+- Search functionality
+- User management interface
+
+5. Conclusion
+The Rainfall & Water Resource Monitoring System successfully implements a comprehensive solution for managing and monitoring environmental data. The system provides secure, role-based access to data, efficient management capabilities, and user-friendly interfaces. The implementation of JSON-based data storage ensures data persistence and easy maintenance. The system meets all its intended objectives and provides a solid foundation for future enhancements.
+
+Future enhancements could include:
+- Integration with real-time sensors
+- Advanced data analytics
+- Mobile application support
+- Cloud-based data backup
+- Enhanced visualization capabilities
+
