@@ -253,8 +253,8 @@ def perform_client_login(username, password, login_frame):
             user["password"] == password):
             
             messagebox.showinfo(
-                "Administrator Access",
-                f"Login Successful!\nWelcome, {username}\n\nLoading Administrator Dashboard..."
+                "Client Access",
+                f"Login Successful!\nWelcome, {username}\n\nLoading Client Dashboard..."
             )
             subprocess.Popen([sys.executable, "client_page.py"])
             login_frame.destroy()
