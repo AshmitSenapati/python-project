@@ -121,7 +121,10 @@ The system uses JSON files for data storage:
 Key Features:
 - Structured data storage
 - Real-time updates
+<<<<<<< HEAD
 - Data validation
+=======
+>>>>>>> c2e3d5a8f87190349de896c95d5190dd5ef5c0c3
 
 4. Demo Screenshots
 - Main login interface
