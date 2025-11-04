@@ -117,12 +117,5 @@
     "season": "Summer",
     "region": "West",
     "rainfall": 101.0
-  },
-  {
-    "record_id": 22,
-    "date": "2025-10-11",
-    "season": "Autumn",
-    "region": "East",
-    "rainfall": 45.0
   }
 ]
